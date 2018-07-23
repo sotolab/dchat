@@ -5,8 +5,10 @@ import { Mongo } from 'meteor/mongo';
 import './main.html';
 
 /**
-* Create new collection if not present.
+* Created by Soto
+* Copyright @ SotoLAB Co,.Ltd
 */
+
 Messages = new Mongo.Collection('messages');
 
 Meteor.subscribe('messages');

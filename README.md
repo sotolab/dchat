@@ -1,5 +1,16 @@
+# Github
+
 git init
-git add --all  .
+
+git add --all .
+
 git commit -m "first commit"
-git remote add origin https://github.com/sotolab/dchat.git
+
+git remote add origin https://github.com/sotolab/dinterval.git
+
 git push -u origin master
+
+# Github
+git add --all .
+git commit -m "second commit"
+
