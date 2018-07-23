@@ -12,5 +12,6 @@ git push -u origin master
 
 # Github
 git add --all .
+
 git commit -m "second commit"
 
